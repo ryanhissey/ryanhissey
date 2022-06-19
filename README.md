@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ryan Hissey</h1>
+<h1 align="center">Hi 👋 I'm Ryan Hissey</h1>
 <h3 align="center">A Backend PHP Developer</h3>
 
 <!--
